@@ -1,3 +1,4 @@
+publishDir = "."
 baseurl = "https://evolbank.github.io/"
 title = "Evol Bank"
 languageCode = "en-us"

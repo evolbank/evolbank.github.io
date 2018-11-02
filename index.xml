@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evol Bank</title>
+    <link>https://evolbank.github.io/</link>
+    <description>Recent content on Evol Bank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://evolbank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apresentação Institucional</title>
+      <link>https://evolbank.github.io/post/apresentacao/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://evolbank.github.io/post/apresentacao/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Evol Bank&lt;/em&gt; é um grupo que visa instaurar um sistema financeiro inteligente em
+&lt;em&gt;Perfect World&lt;/em&gt;, permitindo a participação daqueles com mais experiência e
+também dos mais principiantes. O patrimônio da Evol Bank não é somente seu
+capital mas também seus membros e acionistas, que de forma inteligente e
+participativa constroem um meio adequado para beneficiar o comércio como um
+todo.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estrutura Acionária</title>
+      <link>https://evolbank.github.io/post/estrutura_acionaria/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://evolbank.github.io/post/estrutura_acionaria/</guid>
+      <description>&lt;p&gt;O grupo Evol Bank é resultado da confiança de seus investidores e também do
+empenho que os mesmos possuem para solidificar a instituição no comércio de
+&lt;em&gt;Perfect World&lt;/em&gt;.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
