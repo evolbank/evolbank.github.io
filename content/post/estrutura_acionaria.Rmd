@@ -1,0 +1,82 @@
+---
+title: "Estrutura Acionária"
+date: "2018-11-01"
+description: "Example article description"
+thumbnail: "img/acao1.jpg" # Optional, thumbnail
+lead: "Rumo à evolução do sistema financeiro"
+disable_comments: false # Optional, disable Disqus comments if true
+authorbox: true # Optional, enable authorbox for specific post
+toc: true # Optional, enable Table of Contents for specific post
+mathjax: true # Optional, enable MathJax for specific post
+categories:
+  - "Apresentação"
+tags:
+  - "Sobre o Grupo"
+menu:
+  main:
+    name: Estrutura Acionária
+    weight: 2
+math: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.path = "static/img/", include = FALSE)
+library(ggplot2)
+library(plotly)
+```
+
+O grupo Evol Bank é resultado da confiança de seus investidores e também do
+empenho que os mesmos possuem para solidificar a instituição no comércio de
+*Perfect World*.
+<!--more-->
+
+# Membros do Conselho de Administração
+
+O Conselho de Administração é indicado pelos acionistas do grupo considerando a competência de cada um para assumir cargos de alta gestão e responsabilidade na instituição. Atualmente o Conselho é formado por:
+
+1. **Tellus**: Marechal
+
+# Acionistas
+
+O sistema de ações do grupo *Evol bank* permite que todos possam fazer parte desta instituição e participar de decisões impactantes para o futuro do banco.
+
+```{r}
+nick <- factor(c("Tellus"),
+               levels = c("Tellus"))
+perc <- c(100)
+acoes <- data.frame(Nome = nick, Percentual = perc)
+
+ggsave(ggplot(acoes, aes(x = Nome, y = Percentual, order = Percentual)) +
+  geom_bar(stat = "identity", fill = "#CC092F") +
+  theme_dark() +
+  ggtitle("Acionistas Majoritários"), filename = "acionistas.png", dpi = 720,
+  path = "~/Área de Trabalho/Perfect World/evolbank.github.io/static/img", height = 5)
+
+```
+
+![](/img/acionistas.png)
+
+1. **Tellus**: 100% (1.000.000 unidades)
+
+# Valor atual da ação
+
+O valor da ação varia conforme o crescimento da instituição e a demanda por compra e venda dos papeis:
+
+**VALOR ATUAL DO PAPEL = 1000 GOLD**
+
+```{r}
+
+data <- c("2018-11-01")
+valor <- c(5000)
+vlr_acoes <- data.frame(Data = as.Date(data), Valor = valor)
+
+ggsave(ggplot(vlr_acoes, aes(x = Data, y = Valor)) +
+  geom_line(color = "#CC092F") +
+  geom_point(color = "blue") +
+  theme_dark() +
+  ggtitle("Valor das Ações"), filename = "valor.png", dpi = 720,
+  path = "~/Área de Trabalho/Perfect World/evolbank.github.io/static/img", height = 5)
+
+```
+
+![](/img/valor.png)
