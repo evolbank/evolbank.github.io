@@ -56,8 +56,8 @@ ggsave(ggplot(acoes, aes(x = Nome, y = Percentual, order = Percentual)) +
 
 ![](/img/acionistas.png)
 
-1. **Tellus**: 99,74% (10.000 unidades)
-2. **Yusaki**: 0,26% (26 unidades)
+1. **Tellus**: 99,74% (10.000 ações)
+2. **Yusaki**: 0,26% (26 ações)
 
 # Valor atual da ação
 
