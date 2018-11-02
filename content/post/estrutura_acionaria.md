@@ -40,13 +40,13 @@ O sistema de ações do grupo *Evol bank* permite que todos possam fazer parte d
 
 ![](/img/acionistas.png)
 
-1. **Tellus**: 100% (1.000.000 unidades)
+1. **Tellus**: 100% (10.000 unidades)
 
 # Valor atual da ação
 
 O valor da ação varia conforme o crescimento da instituição e a demanda por compra e venda dos papeis:
 
-**VALOR ATUAL DO PAPEL = 1000 GOLD**
+**VALOR ATUAL DO PAPEL = 3800 MOEDAS**
 
 
 
