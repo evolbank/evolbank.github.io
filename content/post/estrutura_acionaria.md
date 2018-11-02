@@ -40,7 +40,8 @@ O sistema de ações do grupo *Evol bank* permite que todos possam fazer parte d
 
 ![](/img/acionistas.png)
 
-1. **Tellus**: 100% (10.000 unidades)
+1. **Tellus**: 99,74% (10.000 unidades)
+2. **Yusaki**: 0,26% (26 unidades)
 
 # Valor atual da ação
 
