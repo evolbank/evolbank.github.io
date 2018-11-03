@@ -49,7 +49,7 @@ O sistema de ações do grupo *Evol bank* permite que todos possam fazer parte d
 
 O valor da ação varia conforme o crescimento da instituição e a demanda por compra e venda dos papeis:
 
-**VALOR ATUAL DO PAPEL = 3800 MOEDAS**
+**VALOR ATUAL DE UMA AÇÃO = 3800 MOEDAS**
 
 
 
