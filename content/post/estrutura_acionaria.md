@@ -32,6 +32,7 @@ O Conselho de Administração é indicado pelos acionistas do grupo considerando
 
 1. **Tellus**: Marechal
 2. **Yusaki**: General
+3. **Liunny**: Major
 
 # Acionistas
 
