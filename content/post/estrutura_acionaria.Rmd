@@ -69,8 +69,8 @@ O valor da ação varia conforme o crescimento da instituição e a demanda por 
 
 ```{r}
 
-data <- c("2018-11-01", "2018-11-02")
-valor <- c(5000, 3800)
+data <- c("2018-11-01", "2018-11-02", "2018-11-03")
+valor <- c(5000, 3800, 3800)
 vlr_acoes <- data.frame(Data = as.Date(data), Valor = valor)
 
 ggsave(ggplot(vlr_acoes, aes(x = Data, y = Valor)) +
