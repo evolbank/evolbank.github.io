@@ -42,14 +42,14 @@ O sistema de ações do grupo *Evol bank* permite que todos possam fazer parte d
 
 ![](/img/acionistas.png)
 
-1. **Tellus**: 99,48% (10.000 ações)
-2. **Yusaki**: 0,52% (52 ações)
+1. **Tellus**: 99,23% (10.000 ações)
+2. **Yusaki**: 0,77% (78 ações)
 
 # Valor atual da ação
 
 O valor da ação varia conforme o crescimento da instituição e a demanda por compra e venda dos papeis:
 
-**VALOR ATUAL DE UMA AÇÃO = 3800 MOEDAS**
+**VALOR ATUAL DE UMA AÇÃO = 3712,414658 MOEDAS**
 
 
 
