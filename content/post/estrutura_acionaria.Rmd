@@ -65,12 +65,12 @@ ggsave(ggplot(acoes, aes(x = Nome, y = Percentual, order = Percentual)) +
 
 O valor da ação varia conforme o crescimento da instituição e a demanda por compra e venda dos papeis:
 
-**VALOR ATUAL DE UMA AÇÃO = 3719,812959 MOEDAS**
+**VALOR ATUAL DE UMA AÇÃO = 3722,281405 MOEDAS**
 
 ```{r}
 
 data <- c("2018-11-01", "2018-11-02", "2018-11-03")
-valor <- c(5000, 3800, 3719.812959)
+valor <- c(5000, 3800, 3722.281405)
 vlr_acoes <- data.frame(Data = as.Date(data), Valor = valor)
 
 ggsave(ggplot(vlr_acoes, aes(x = Data, y = Valor)) +
