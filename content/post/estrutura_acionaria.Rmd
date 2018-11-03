@@ -45,7 +45,7 @@ O sistema de ações do grupo *Evol bank* permite que todos possam fazer parte d
 ```{r}
 nick <- factor(c("Tellus", "Yusaki"),
                levels = c("Tellus", "Yusaki"))
-perc <- 100/10026*c(10000, 26)
+perc <- 100/10026*c(10000, 52)
 acoes <- data.frame(Nome = nick, Percentual = perc)
 
 ggsave(ggplot(acoes, aes(x = Nome, y = Percentual, order = Percentual)) +
@@ -58,8 +58,8 @@ ggsave(ggplot(acoes, aes(x = Nome, y = Percentual, order = Percentual)) +
 
 ![](/img/acionistas.png)
 
-1. **Tellus**: 99,74% (10.000 ações)
-2. **Yusaki**: 0,26% (26 ações)
+1. **Tellus**: 99,48% (10.000 ações)
+2. **Yusaki**: 0,52% (52 ações)
 
 # Valor atual da ação
 
