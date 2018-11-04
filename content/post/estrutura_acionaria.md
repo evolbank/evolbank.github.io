@@ -57,11 +57,10 @@ O valor da ação varia conforme o crescimento da instituição e a demanda por 
 
 # Dividendos
 
-Os dividendos são partes do lucro que grupo que são distribuídos no primeiro
-sábado de cada mês. Para o grupo se manter estável existem algumas proporções
-que devem ser seguidas, a *Evol Bank* fornece a todos os seus acionistas 35%
-do seu lucro líquido (tirando gastos com ativos circulantes) e os outros
-65% são utilizados para cobrir as despesas do grupo e para assegurar um fundo
-de garantia. Todo mês será postado um relatório com uma análise financeira do
-grupo, indicando com transparência todos os gastos, lucros e pagamentos aos
-acionistas.
+Os dividendos são partes do lucro da instituição que são distribuídos no
+primeiro sábado de cada mês. Para o grupo se manter estável existem algumas
+proporções que devem ser seguidas, a *Evol Bank* fornece a todos os seus
+acionistas 35% do seu lucro líquido todo mês e os outros 65% são utilizados para
+cobrir as despesas do grupo e para assegurar um fundo de garantia. Todo mês será
+postado um relatório com uma análise financeira do grupo, indicando com
+transparência todos os gastos, lucros e pagamentos aos acionistas.
