@@ -3,7 +3,7 @@ title: "Estrutura Acionária"
 date: "2018-11-01"
 description: "Example article description"
 thumbnail: "img/acao1.jpg" # Optional, thumbnail
-lead: "Rumo à evolução do sistema financeiro"
+lead: "Visão geral da instituição"
 disable_comments: false # Optional, disable Disqus comments if true
 authorbox: true # Optional, enable authorbox for specific post
 toc: true # Optional, enable Table of Contents for specific post
@@ -54,3 +54,14 @@ O valor da ação varia conforme o crescimento da instituição e a demanda por 
 
 
 ![](/img/valor.png)
+
+# Dividendos
+
+Os dividendos são partes do lucro que grupo que são distribuídos no primeiro
+sábado de cada mês. Para o grupo se manter estável existem algumas proporções
+que devem ser seguidas, a *Evol Bank* fornece a todos os seus acionistas 35%
+do seu lucro líquido (tirando gastos com ativos circulantes) e os outros
+65% são utilizados para cobrir as despesas do grupo e para assegurar um fundo
+de garantia. Todo mês será postado um relatório com uma análise financeira do
+grupo, indicando com transparência todos os gastos, lucros e pagamentos aos
+acionistas.
